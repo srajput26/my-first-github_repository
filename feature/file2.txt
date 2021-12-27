@@ -1,4 +1,5 @@
 This is file2.txt.
 
 It was created in remote repository.
-A line was added in local repository.
+
+A consolidated line in local/remote repository.
