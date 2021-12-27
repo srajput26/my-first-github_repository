@@ -1,3 +1,4 @@
 # my-first-github_repository
 My First GitHub repository
-This file is edited manually. This line was edited locally.
+
+This file conflict was resolved manually.
